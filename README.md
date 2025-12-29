@@ -267,9 +267,9 @@ This allows processing **thousands of PDFs** per day!
 2. In the sidebar, find "🔑 API Keys" section
 3. Enter multiple API keys, **one per line**:
    ```
-   AIzaSyAbc123def456ghi789jkl012mno345pqr
-   AIzaSyXyz789abc012def345ghi678jkl901mno
-   AIzaSyDef456ghi789jkl012mno345pqr678stu
+   YOUR_API_KEY_1_HERE
+   YOUR_API_KEY_2_HERE
+   YOUR_API_KEY_3_HERE
    ```
 4. The app will automatically use all keys and rotate between them
 
@@ -285,9 +285,9 @@ This allows processing **thousands of PDFs** per day!
 1. Create a file named `api_keys.txt` in the same folder as the script
 2. Add your API keys, one per line:
    ```
-   AIzaSyAbc123def456ghi789jkl012mno345pqr
-   AIzaSyXyz789abc012def345ghi678jkl901mno
-   AIzaSyDef456ghi789jkl012mno345pqr678stu
+   YOUR_API_KEY_1_HERE
+   YOUR_API_KEY_2_HERE
+   YOUR_API_KEY_3_HERE
    ```
 3. Run the script - it will automatically load the keys
 
